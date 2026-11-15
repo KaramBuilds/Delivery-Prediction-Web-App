@@ -1,0 +1,7 @@
+For this project you will need the Python libraries Flask, Pandas, and Sci-kit Learn downloaded.
+Steps:
+1. You will have to run the pythn file and press the http:// link it gives you. (ctrl + enter)
+2. Next, enter all the details.
+3. Press the Predict Delivery time to get your Predicted delivery time!
+
+DISCLAIMER: THIS IS FOR EDUCATIONAL PURPOSES ONLY. PREDICTIONS MAY NOT REFLECT REAL DELIVERY TIMES.
